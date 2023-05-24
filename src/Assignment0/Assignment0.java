@@ -1,5 +1,7 @@
 //
 
+//Andrew Fugate - Assignment 0
+
 package Assignment0;
 
 public class Assignment0
